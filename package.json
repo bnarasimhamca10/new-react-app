@@ -1,0 +1,25 @@
+{
+  "name": "new-react-app",
+  "version": "1.0.0",
+  "description": "Without CRA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnarasimhamca10/new-react-app.git"
+  },
+  "keywords": [
+    "No-CRA"
+  ],
+  "author": "Narasimha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnarasimhamca10/new-react-app/issues"
+  },
+  "homepage": "https://github.com/bnarasimhamca10/new-react-app#readme",
+  "dependencies": {
+    "webpack": "^5.65.0"
+  }
+}
